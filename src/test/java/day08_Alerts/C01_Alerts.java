@@ -30,7 +30,7 @@ public class C01_Alerts {
     public static void tearDown() throws InterruptedException {
 
         Thread .sleep(10000) ;
-        //driver .quit() ;
+        driver .quit() ;
     }
 
     @Test
