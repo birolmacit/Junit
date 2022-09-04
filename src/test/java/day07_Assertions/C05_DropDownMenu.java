@@ -55,7 +55,7 @@ public class C05_DropDownMenu {
 
         secim .selectByVisibleText("Books");//
         //secim .selectByIndex(5);//buradaki ilk tıkladıgımız 0.indextir dolayısıyla listedekilerin indexleri 1 den baslar
-        //secim.deselectByValue("search-alias=stripbooks-intl-ship");
+        //secim.selectByValue("search-alias=stripbooks-intl-ship");
 
 
         //arama kutusuna java yazdıralım   ki bu bolum normal locate ederek zaten aratılıyor
